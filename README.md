@@ -3,10 +3,6 @@
 
 **Share screenshots of what you're learning here:** https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/issues/43
 
-Donations accepted:
-
-![image](https://media.discordapp.net/attachments/1114958734364524605/1118408591087517818/image.png?width=647&height=584)
-
 ## Table of Contents
 - [Mr. Ranedeer: Your personalized AI Tutor!](#mr-ranedeer-your-personalized-ai-tutor)
   - [Table of Contents](#table-of-contents)
