@@ -1,7 +1,6 @@
 # INFORMER tutor 
 - kindly adapted from Mr. Ranedeer 
 
-**Share screenshots of what you're learning here:** https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/issues/43
 
 ## Table of Contents
 - [Mr. Ranedeer: Your personalized AI Tutor!](#mr-ranedeer-your-personalized-ai-tutor)
